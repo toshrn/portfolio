@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 150" role="img" aria-labelledby="title">
+  <title id="title">PHP skill graphic</title>
+  <rect width="240" height="150" rx="14" fill="#f2f2f2"/>
+  <ellipse cx="120" cy="75" rx="91" ry="43" fill="#777bb3"/>
+  <text x="120" y="87" fill="#fff" font-family="Arial, sans-serif" font-size="47" font-weight="700" font-style="italic" text-anchor="middle">PHP</text>
+</svg>

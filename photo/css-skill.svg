@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 150" role="img" aria-labelledby="title">
+  <title id="title">CSS3 skill graphic</title>
+  <rect width="240" height="150" rx="14" fill="#f2f2f2"/>
+  <path d="M56 19h128l-12 103-53 15-53-15L54 35z" fill="#1572b6"/>
+  <path d="M75 43h91l-2 15H91l2 15h69l-6 39-36 10-35-10-2-20h16l1 9 20 5 21-5 2-13H78z" fill="#fff"/>
+  <text x="120" y="37" fill="#1572b6" font-family="Arial, sans-serif" font-size="12" font-weight="700" text-anchor="middle">CSS3</text>
+</svg>
